@@ -1,1 +1,3 @@
-# repozytorium nagranie 
+# repozytorium 
+## autorzy:
+* Martyna Osial
